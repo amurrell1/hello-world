@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+		<title></title>
+	</head>
+	<body>
+		<div id="header">
+			<p id="name">Andre Murrell</p>
+			<a href="mailto:andre.murrell@outlook.com"><p id="email">andre.murrell@outlook.com</p></a>
+		</div>
+		<div class="left"></div>
+		<div class="right">
+			<h1>Professional Summary</h1>
+			<p>
+				<ul>
+					<li>Certified Information Systems Security Professional (CISSP) with 20 years of diversified and extensive experience in designing, implementing, and troubleshooting of network infrastructure and security.</li>  
+					<li>Excellent in installing and maintaining multiple vendor systems.</li>  
+					<li>Proven record of evaluating system vulnerability in order to recommend security improvements as well as improve efficiency while aligning business processes with network design and infrastructure.</li>   
+					<li>Strong background of Cyber Security policies and procedures to include; DISA STIGS, ISO 27001:2005, PCI DSS 3.2, NIST, DIACAP and RMF.</li>
+					<li>Expert knowledge of using Kali Linux's for manual Penetration Tools.</li>
+					<li>Expert knowledge of using automated Cyber Security tools to include ACAS, IDS/IPS and Nessus.</li> 
+					<li>Expert knowledge of using Encase, FTK Imager and ProDiscovery.</li>
+					<li>Holds the following IT Security certifications:  Certified Information Systems Security Professional (CISSP), Systems Security Certified Practitioner (SSCP), Certified Ethical Hacker (CEHv9), CompTIA Cyber Security Analyst+, Server+, Security+, Project+, Network+, and Information Technology Infrastructure Library (ITIL v3) Foundation.</li>
+					<li>Holds a Bachelor’s of Science in Management Studies with a minor in Cyber Security and Masters of Science in Digital Forensics and Computer Investigation.</li> 
+					<li>Holds an Active Top Secret/SCI Clearance.</li> 
+				</ul>
+
+			</p>
+			<h2>Experience</h2>
+			<p>Network Operations Security Center Manager  April 2012 - Present</p>
+				<ul>
+					<li>Created the Organization’s first ever Network Operations Center (NOC) and Security Operations Center (SOC) with minimum funding.</li>
+       					<li>Repurposed underutilized equipment and chose the best value added option to create the peripheral systems; saved the organization over $5,000,000.</li>
+					<li>Wrote third-party JavaScript and Ruby libraries</li>
+				</ul>
+
+			<p>Network and Computer Systems Administrator  October 2011-April 2012</p>
+
+				<ul>
+					<li>Identified critical flaws in Disaster Recovery Plan (DRP); coordinated the purchase of a more sufficient backup power generation system that would allow reliable communication even during power outages.</li> 
+					<li>Saved the organization over $25,000,000 in server equipment repairs due to power surges and outages.</li>
+   					<li>Lead Project Manager for organization’s CCRI inspection; resulted in 100% successful compliance with governmental guidance.</li>
+				</ul>
+
+			<p>Director of Network Operations Center  March 2011-October 2011</p>
+
+				<ul>
+					<li>Worked hand in hand with the SCCM/Image team to develop and test a more effective PXE image to limit the amount of IAVA and vulnerabilities.</li>  
+					<li>Collaborated with IA in order to help mitigate outstanding HBSS security issues; resulted in 94% compliance with the South-West Asia Network Enterprise inspection.</li>
+				</ul>
+
+			<p>Senior Systems Administrator  April 2008-April 2009</p>
+
+				<ul>
+					<li>Managed the migration of over 3,000 subscribers from one Network Operations Center in a destitute location to final locale at my organizations Technical Control Facility.</li>
+
+			<h3>Skills</h3>
+			<p>Languages: C#, JavaScript, Python, Ruby</p>
+			<p>Frameworks: .NET, Node.js, Django, Ruby on Rails</p>
+			
+			<h4>Education</h4>
+			
+			<p>MS, Digital Forensics and Computer Investigative, University of Maryland University College</p>
+			<p>MS, Certificate in Foundations in Cyber Security, University of Maryland University College</p>
+			<p>BS, Management Studies w/ minor in Cyber Security, University of Maryland University College</p>
+			<p>AAS, Advanced Technology, Central Tesas College</p>
+			
+			<ul>
+				<li><a href="https://military.microsoft.com/training/mssa/">Microsoft Systems Software Academy (MSSA)</a></li>
+				<li><a href="https://www.isc2rduchapter.org/">Co-Chair of the members board for ISC2 RDU Chapter</a></li>
+			</ul>
+		</div>
+		<div id="footer">
+			<p>2544 Camp Lejeune Ct, Hope Mills, NC 28348 | Tel: (910) 263-9385</p>
+		</div>
+	</body>
+</html>
